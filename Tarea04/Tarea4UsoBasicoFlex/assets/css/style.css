@@ -1,3 +1,7 @@
 body {
-    color: blue;
+  color: blue;
+}
+
+h1 {
+  color: cyan; /* Agregué esta regla para probar el estilo */
 }
